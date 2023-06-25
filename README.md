@@ -8,6 +8,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 # Projects
 
 
-
-![Credit Card Fraud](Images/Creditcard.jpg | width="100") 
+<img src="https://github.com/Shashank1998-code/Portfolio/tree/main/Images/Creditcard.jpg" width=50% height=50%>
 
