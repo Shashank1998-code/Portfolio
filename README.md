@@ -9,5 +9,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Credit Card Fraud Detection
 
-<img src="https://github.com/Shashank1998-code/Portfolio/blob/main/Images/Creditcard.jpg" width=30% height=30%>
+<img src="https://github.com/Shashank1998-code/Portfolio/blob/main/Images/Creditcard.jpg" width=30% height=30%> **[Credit Card Fraud Detection](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
