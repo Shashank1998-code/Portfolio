@@ -8,3 +8,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 # Projects
 
 
+| ----------------------------------- | ----------------------------------- |
+| ![Credit Card Fraud](Images/Creditcard.jpg) | Text |
+
