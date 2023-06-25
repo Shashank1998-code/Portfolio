@@ -5,9 +5,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
    * Email: shashankshankar10@gmail.com
    * LinkedIn: [Shashank LinkedIn](https://www.linkedin.com/in/shashank-ravishankarutd/)
 
-# Projects
+## Projects
 
-## Credit Card Fraud Detection
-
-<img src="https://github.com/Shashank1998-code/Portfolio/blob/main/Images/Creditcard.jpg" width=30% height=30%> **[Credit Card Fraud Detection](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
+<img align="left" width="250" height="150" src="https://github.com/Shashank1998-code/Portfolio/blob/main/Images/Creditcard.jpg"> **[Credit Card Fraud Detection](https://github.com/Shashank1998-code/Credit-Fraud-Detection-CapitalOneTransactions)**
