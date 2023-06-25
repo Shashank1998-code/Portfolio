@@ -3,7 +3,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It is updated on the regular basis.
 
    * Email: shashankshankar10@gmail.com
-   * LinkedIn: [LinkedIn/Shashank](https://www.linkedin.com/in/shashank-ravishankarutd/)
+   * LinkedIn: [linkedin.com/Shashank](https://www.linkedin.com/in/shashank-ravishankarutd/)
 
 ## Projects
 
