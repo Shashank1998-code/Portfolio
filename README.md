@@ -9,5 +9,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 
-![Credit Card Fraud](Images/Creditcard.jpg | width=100) 
+![Credit Card Fraud](Images/Creditcard.jpg | width="100") 
 
