@@ -8,5 +8,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 # Projects
 
 
-<img src="https://github.com/Shashank1998-code/Portfolio/tree/main/Images/Creditcard.jpg" width=50% height=50%>
+<img src="https://github.com/Shashank1998-code/Portfolio/blob/main/Images/Creditcard.jpg" width=30% height=30%>
 
