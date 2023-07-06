@@ -1,11 +1,11 @@
 # Data Science Portfolio - Shashank Ravishankar
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It is updated on a regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
 
    * Email: shashankshankar10@gmail.com
    * LinkedIn: [linkedin.com/Shashank](https://www.linkedin.com/in/shashank-ravishankarutd/)
 
-**** This Page is currently being updated
+**** This Page is currently being updated. Stay Tuned.
 
 ## Projects
 
