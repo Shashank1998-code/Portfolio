@@ -13,6 +13,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 Conducted a comparitive study of Decision Tree, Random Forest, and XGBoost classifiers for card fraud detection on the Capital One Credit Card transaction dataset.
 
+#
+
 <img align="left" width="250" height="150" src="https://github.com/Shashank1998-code/CLV/blob/main/clv.png"> **[Customer Lifetime Value Predication](https://github.com/Shashank1998-code/CLV)**
 
 Developed and deployed a Beta-Geometric Negative Binomial Distribution (BG-NBD) model on the CDNow Dataset(dot-com era Compact Disk Retailer) for customer behavior analysis and to predict CLV
