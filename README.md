@@ -19,6 +19,7 @@ Conducted a comparitive study of Decision Tree, Random Forest, and XGBoost class
 
 Developed and deployed a Beta-Geometric Negative Binomial Distribution (BG-NBD) model on the CDNow Dataset(dot-com era Compact Disk Retailer) for customer behavior analysis and to predict CLV
 
+#
 
 <img align="left" width="250" height="150" src="https://github.com/Shashank1998-code/Product-and-Customer-Analytics---SQL/blob/main/Movies.jpg"> **[SQL Product Analytics](https://github.com/Shashank1998-code/Product-and-Customer-Analytics---SQL)**
 
